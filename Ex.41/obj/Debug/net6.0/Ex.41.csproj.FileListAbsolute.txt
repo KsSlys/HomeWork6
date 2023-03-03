@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork6\Ex.41\bin\Debug\net6.0\Ex.41.exe
+C:\Users\User\Desktop\HomeWork6\Ex.41\bin\Debug\net6.0\Ex.41.deps.json
+C:\Users\User\Desktop\HomeWork6\Ex.41\bin\Debug\net6.0\Ex.41.runtimeconfig.json
+C:\Users\User\Desktop\HomeWork6\Ex.41\bin\Debug\net6.0\Ex.41.dll
+C:\Users\User\Desktop\HomeWork6\Ex.41\bin\Debug\net6.0\Ex.41.pdb
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.dll
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\refint\Ex.41.dll
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.pdb
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\Ex.41.genruntimeconfig.cache
+C:\Users\User\Desktop\HomeWork6\Ex.41\obj\Debug\net6.0\ref\Ex.41.dll
